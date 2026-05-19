@@ -1,0 +1,20 @@
+CREATE TABLE `hr-elt-pipeline.raw.employees` (
+  employee_id STRING,
+  first_name STRING,
+  last_name STRING,
+  gender STRING,
+  ethnicity STRING,
+  birth_date STRING,
+  hire_date STRING,
+  termination_date STRING,
+  term_reason STRING,
+  department STRING,
+  job_title STRING,
+  job_level STRING,
+  location STRING,
+  base_salary FLOAT64,
+  target_bonus_pct FLOAT64,
+  performance_rating STRING,
+  supervisor_id STRING,
+  loaded_at TIMESTAMP
+);

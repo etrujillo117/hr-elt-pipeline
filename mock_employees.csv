@@ -1,0 +1,501 @@
+employee_id,first_name,last_name,gender,ethnicity,birth_date,hire_date,termination_date,term_reason,department,job_title,job_level,location,base_salary,target_bonus_pct,performance_rating,supervisor_id
+1001,Jordan,Guerrero,Male,Asian,1980-04-20,2018-06-01,,,Executive,CEO,Executive,Remote,500000,0.5,3,
+1002,Melissa,Wilson,Female,Hispanic or Latino,1973-10-23,2018-10-15,,,Engineering,VP of Engineering,Director/VP,"New York, NY",392758,0.42729954698737693,5,1001.0
+1003,Matthew,Patterson,Female,Hispanic or Latino,1987-01-01,2018-08-07,,,Sales,VP of Sales,Director/VP,"Austin, TX",281338,0.3210210920527951,5,1001.0
+1004,Rebekah,Walker,Male,Two or More Races,1976-04-20,2018-08-21,,,HR,Chief People Officer,Director/VP,"Chicago, IL",307307,0.3123236462588191,4,1001.0
+1005,Christian,Patton,Female,Hispanic or Latino,1982-05-02,2018-11-11,,,Marketing,VP of Marketing,Director/VP,"San Francisco, CA",420765,0.39993426865716086,3,1001.0
+1006,Jeanne,Smith,Non-binary,White,1979-11-19,2018-10-17,,,Finance,Chief Financial Officer,Director/VP,"Austin, TX",443955,0.42987436497923315,5,1001.0
+1007,Lawrence,English,Female,White,1970-05-20,2019-11-10,,,Marketing,Marketing Manager,Manager,"Austin, TX",217875,0.21733039293138168,4,1005.0
+1008,Steven,Chapman,Non-binary,Black or African American,1983-07-11,2019-11-26,,,HR,HR Manager,Manager,"Austin, TX",249416,0.24407929142405949,3,1004.0
+1009,James,Reyes,Female,White,1988-05-05,2020-05-14,,,Marketing,Marketing Manager,Manager,Remote,119241,0.18888730266344872,3,1005.0
+1010,Shannon,Owen,Non-binary,White,1984-11-08,2019-09-17,,,Engineering,Engineering Manager,Manager,"Chicago, IL",162753,0.20193728385840715,5,1002.0
+1011,Alexander,Mcfarland,Non-binary,Black or African American,1976-03-20,2019-05-18,,,Sales,Sales Manager,Manager,"Austin, TX",217432,0.2060247207795142,2,1003.0
+1012,John,Cobb,Female,White,1982-08-07,2019-07-15,,,Finance,Controller,Manager,Remote,224572,0.16646871595224846,3,1006.0
+1013,Todd,Fisher,Male,White,1980-11-19,2019-09-03,,,Finance,Controller,Manager,"Chicago, IL",213400,0.15325799403107965,5,1006.0
+1014,Frederick,Romero,Male,Asian,1972-02-09,2019-06-21,,,HR,HR Manager,Manager,"Chicago, IL",171262,0.23434145838007175,3,1004.0
+1015,Roberto,Hill,Female,Hispanic or Latino,1980-06-28,2019-11-13,,,Engineering,Engineering Manager,Manager,Remote,220378,0.17181878116132177,5,1002.0
+1016,Brian,Gonzalez,Female,Black or African American,1993-12-23,2020-03-19,,,HR,HR Manager,Manager,"Austin, TX",212279,0.20096999423653364,2,1004.0
+1017,Christopher,Coleman,Female,Black or African American,1982-11-01,2020-04-25,,,Sales,Sales Manager,Manager,Remote,137555,0.17740179404285164,5,1003.0
+1018,David,Garcia,Female,Hispanic or Latino,1991-12-06,2020-05-25,,,Sales,Sales Manager,Manager,"Austin, TX",123724,0.20444446164441432,4,1003.0
+1019,Jason,Davis,Female,White,1971-03-05,2019-06-02,,,Engineering,Engineering Manager,Manager,"San Francisco, CA",209251,0.20311842699763227,1,1002.0
+1020,Bryan,Morris,Male,White,1970-06-19,2020-03-06,,,HR,HR Manager,Manager,"Austin, TX",244137,0.15929037428202558,4,1004.0
+1021,Gregory,Mitchell,Male,Asian,1988-03-24,2019-08-10,2023-07-07,Resigned - Personal,HR,HR Manager,Manager,"San Francisco, CA",201307,0.24141196726511327,5,1004.0
+1022,Joel,Rogers,Non-binary,Black or African American,1995-09-05,2019-09-13,,,Marketing,Marketing Manager,Manager,Remote,147373,0.19154266071685805,4,1005.0
+1023,Theodore,Miller,Female,Two or More Races,1984-11-10,2019-03-07,,,Finance,Controller,Manager,"New York, NY",127482,0.16455980249745206,5,1006.0
+1024,Ricky,Garza,Male,Black or African American,1993-09-27,2020-02-26,,,Sales,Sales Manager,Manager,"New York, NY",214116,0.16974273502668935,2,1003.0
+1025,Daniel,Gonzalez,Female,Asian,1973-09-06,2019-04-15,,,Marketing,Marketing Manager,Manager,"New York, NY",117661,0.15930308509026522,5,1005.0
+1026,George,Obrien,Male,Two or More Races,1979-04-18,2020-01-12,,,HR,HR Manager,Manager,"San Francisco, CA",193413,0.18814656736124635,4,1004.0
+1027,Charles,Allen,Male,Hispanic or Latino,1995-11-17,2019-09-25,,,Engineering,Engineering Manager,Manager,"Austin, TX",186133,0.15443771303676548,4,1002.0
+1028,Jacob,Kaufman,Male,Two or More Races,1971-01-14,2019-10-25,,,Finance,Controller,Manager,Remote,232762,0.23245405229469887,2,1006.0
+1029,Patrick,Lewis,Non-binary,Black or African American,1989-10-20,2018-12-23,,,HR,HR Manager,Manager,"New York, NY",124625,0.24108978918342844,4,1004.0
+1030,Jimmy,Williams,Non-binary,Asian,1979-03-22,2020-06-09,,,Marketing,Marketing Manager,Manager,"San Francisco, CA",218691,0.2031825464276049,1,1005.0
+1031,Erik,Lewis,Male,Asian,1990-10-02,2019-11-19,,,Sales,Sales Manager,Manager,"San Francisco, CA",151609,0.16965565879658379,2,1003.0
+1032,Bryce,Davis,Female,Two or More Races,1993-03-09,2020-01-07,,,HR,HR Manager,Manager,Remote,173860,0.2350592465266308,2,1004.0
+1033,Bill,Thompson,Male,Hispanic or Latino,1989-02-03,2019-12-12,,,Engineering,Engineering Manager,Manager,"San Francisco, CA",193417,0.20510188724377298,3,1002.0
+1034,Brandon,Perry,Non-binary,White,1973-11-26,2020-02-09,,,Marketing,Marketing Manager,Manager,"New York, NY",134763,0.1945114996597948,1,1005.0
+1035,Mark,Burns,Female,Black or African American,1991-05-22,2019-01-19,,,Engineering,Engineering Manager,Manager,"New York, NY",210156,0.20330515514659514,3,1002.0
+1036,Gregory,Spears,Male,Asian,1978-05-02,2019-12-21,,,Finance,Controller,Manager,"Chicago, IL",247562,0.20647108030222588,2,1006.0
+1037,Patrick,Hunt,Female,Hispanic or Latino,1984-08-14,2018-11-30,,,Sales,Sales Manager,Manager,Remote,164795,0.19230606156779995,5,1003.0
+1038,Bruce,Morales,Male,Hispanic or Latino,1970-09-02,2020-10-01,,,Marketing,Marketing Manager,Manager,"Austin, TX",172237,0.16312892438724763,1,1005.0
+1039,Trevor,Torres,Female,Two or More Races,1987-11-09,2018-12-19,,,HR,HR Manager,Manager,"San Francisco, CA",172475,0.20374929298731295,1,1004.0
+1040,Jaime,Obrien,Non-binary,Black or African American,1979-07-31,2020-08-14,2024-12-17,Resigned - Personal,HR,HR Manager,Manager,"Chicago, IL",142396,0.21015896714280113,1,1004.0
+1041,Jonathan,Carter,Non-binary,White,1992-03-26,2019-05-22,,,Marketing,Marketing Manager,Manager,"Chicago, IL",161573,0.19358401613690757,3,1005.0
+1042,Thomas,Simmons,Non-binary,Two or More Races,1994-06-18,2020-04-28,,,Marketing,Marketing Manager,Manager,"San Francisco, CA",192794,0.2454404394405082,1,1005.0
+1043,Jonathan,Smith,Non-binary,Hispanic or Latino,1986-07-28,2019-01-12,,,Finance,Controller,Manager,"San Francisco, CA",164919,0.1528666923378973,3,1006.0
+1044,Matthew,Miller,Non-binary,Two or More Races,1986-05-07,2020-07-03,2023-02-16,Resigned - Personal,Engineering,Engineering Manager,Manager,"Chicago, IL",239130,0.15628148645500242,3,1002.0
+1045,Omar,Rivera,Non-binary,Asian,1977-09-29,2018-10-08,,,Sales,Sales Manager,Manager,"Austin, TX",119914,0.2476214785534774,3,1003.0
+1046,Alex,Patterson,Male,Hispanic or Latino,1992-11-16,2020-04-26,,,Finance,Controller,Manager,"Chicago, IL",178342,0.24995091010441975,4,1006.0
+1047,Robert,Proctor,Non-binary,Two or More Races,1990-01-03,2020-01-30,,,Engineering,Engineering Manager,Manager,"San Francisco, CA",184280,0.17414744157791567,3,1002.0
+1048,William,Andersen,Non-binary,White,1996-01-15,2019-02-20,,,Engineering,Engineering Manager,Manager,"Chicago, IL",247402,0.21206034107050414,5,1002.0
+1049,Steven,Price,Male,White,1984-08-31,2020-05-17,,,Engineering,Engineering Manager,Manager,"Austin, TX",216898,0.17035483529843992,3,1002.0
+1050,Brian,Hardin,Female,Black or African American,1972-05-20,2019-03-03,,,HR,HR Manager,Manager,"Chicago, IL",191033,0.23102359697370717,5,1004.0
+1051,Daniel,Brown,Non-binary,Black or African American,1979-12-19,2019-02-16,,,HR,HR Manager,Manager,"Chicago, IL",146945,0.18293769170510776,2,1004.0
+1052,Todd,Bonilla,Female,Asian,1990-02-23,2020-06-11,2024-11-01,Retired,HR,HR Manager,Manager,"Chicago, IL",139480,0.17317212783426778,4,1004.0
+1053,Timothy,Cole,Female,Two or More Races,1986-05-22,2020-04-26,,,Sales,Sales Manager,Manager,"New York, NY",196661,0.19663371865165907,3,1003.0
+1054,Joseph,Hicks,Female,Hispanic or Latino,1972-10-14,2019-01-30,,,HR,HR Manager,Manager,"Austin, TX",237812,0.1606361885686815,1,1004.0
+1055,John,Green,Male,Asian,1993-05-08,2019-08-20,2023-01-20,Resigned - Personal,Engineering,Engineering Manager,Manager,"Austin, TX",238574,0.21772683049594704,1,1002.0
+1056,Paul,Gardner,Non-binary,White,1979-06-03,2020-03-30,,,Sales,Sales Manager,Manager,"San Francisco, CA",176214,0.19938535723988957,1,1003.0
+1057,Jack,Jackson,Male,Asian,1977-03-07,2020-02-12,2022-01-22,Resigned - Better Opportunity,Marketing,Marketing Manager,Manager,"Austin, TX",153837,0.2010037114010495,1,1005.0
+1058,David,Miller,Female,Two or More Races,1985-10-10,2019-07-26,,,Sales,Sales Manager,Manager,"San Francisco, CA",189609,0.2235430707864959,5,1003.0
+1059,Kelly,Oneill,Non-binary,Hispanic or Latino,1971-08-17,2020-01-28,,,Finance,Controller,Manager,"New York, NY",124229,0.24779650226406738,2,1006.0
+1060,James,Mitchell,Male,White,1972-01-19,2020-01-23,,,HR,HR Manager,Manager,"Chicago, IL",204891,0.22339210025824252,3,1004.0
+1061,Bradley,Mcbride,Female,Asian,1990-04-28,2019-02-21,,,Finance,Controller,Manager,Remote,126001,0.2394404426280915,2,1006.0
+1062,Joseph,Rodriguez,Male,White,1993-06-11,2019-09-29,,,Marketing,Marketing Manager,Manager,Remote,127569,0.17673676702502622,4,1005.0
+1063,Shane,Lewis,Female,Black or African American,1993-02-14,2020-01-17,,,HR,HR Manager,Manager,"San Francisco, CA",172985,0.18773052107630794,2,1004.0
+1064,Brandon,Wilson,Female,Hispanic or Latino,1992-07-21,2020-11-07,,,Marketing,Marketing Manager,Manager,"Chicago, IL",222050,0.2044299931954714,5,1005.0
+1065,Robert,Bell,Male,Black or African American,1995-01-15,2020-03-26,,,HR,HR Manager,Manager,"San Francisco, CA",123321,0.23381546222832159,3,1004.0
+1066,Brian,Perkins,Male,Black or African American,1973-01-24,2019-05-19,2025-12-17,Resigned - Better Opportunity,Sales,Sales Manager,Manager,"New York, NY",173195,0.15860186402553728,5,1003.0
+1067,Scott,Yu,Non-binary,White,1971-10-06,2020-07-27,,,Marketing,Marketing Manager,Manager,"Austin, TX",154215,0.23286770298763615,5,1005.0
+1068,Jason,Davis,Non-binary,Black or African American,1993-12-15,2019-06-02,2023-08-13,Terminated - Performance,Finance,Controller,Manager,Remote,190688,0.19844777162009666,3,1006.0
+1069,James,Paul,Non-binary,Hispanic or Latino,1989-09-26,2019-07-25,,,Finance,Controller,Manager,"New York, NY",167851,0.22052365106025928,4,1006.0
+1070,James,Valentine,Non-binary,Asian,1977-04-01,2019-01-10,,,Engineering,Engineering Manager,Manager,"San Francisco, CA",205286,0.1662834329688495,4,1002.0
+1071,James,Garrison,Female,White,1993-09-30,2020-09-26,,,Finance,Controller,Manager,"Chicago, IL",210628,0.16829190000989896,3,1006.0
+1072,Thomas,Sanchez,Non-binary,Hispanic or Latino,1984-01-08,2019-07-25,,,HR,HR Manager,Manager,"Chicago, IL",242102,0.1922703742445741,1,1004.0
+1073,Jonathan,Mullen,Non-binary,White,1988-07-03,2020-06-11,,,Sales,Sales Manager,Manager,"New York, NY",129082,0.17986177098024422,1,1003.0
+1074,Charles,Hernandez,Male,Hispanic or Latino,1970-08-16,2019-12-22,,,Engineering,Engineering Manager,Manager,Remote,143577,0.2253893910784306,1,1002.0
+1075,Carl,Keller,Female,Two or More Races,1971-12-25,2019-01-19,2024-06-19,Terminated - Performance,Sales,Sales Manager,Manager,"New York, NY",146150,0.17929311930256417,1,1003.0
+1076,Connor,Bryant,Non-binary,Asian,1983-03-04,2020-08-03,,,Finance,Controller,Manager,Remote,223563,0.22431859579819924,5,1006.0
+1077,Charles,Rodriguez,Non-binary,Two or More Races,1988-12-09,2019-10-08,,,Finance,Controller,Manager,"Austin, TX",179610,0.2426145453762595,5,1006.0
+1078,Tommy,Weiss,Male,Hispanic or Latino,1989-06-23,2019-12-25,,,Engineering,Engineering Manager,Manager,"Austin, TX",118487,0.20777761395136077,1,1002.0
+1079,Justin,Price,Male,White,1985-03-22,2020-02-29,,,Engineering,Engineering Manager,Manager,"Austin, TX",176792,0.15712287498086827,3,1002.0
+1080,Brandon,Campbell,Male,Black or African American,1983-04-09,2019-03-30,,,HR,HR Manager,Manager,"Austin, TX",208185,0.20280068831529946,2,1004.0
+1081,Timothy,Ramos,Non-binary,Hispanic or Latino,1991-04-06,2019-08-20,,,Finance,Controller,Manager,"San Francisco, CA",186194,0.24489830232051205,2,1006.0
+1082,Elizabeth,Morrow,Male,Two or More Races,1987-07-27,2019-11-13,,,Engineering,Junior Engineer,Entry,"Chicago, IL",51566,,[1],1070.0
+1083,Amy,Sharp,Male,Black or African American,1984-03-23,2020-05-11,,,HR,HR Business Partner,Mid,"San Francisco, CA",69851,,[4],1032.0
+1084,Kevin,Lopez,Male,Asian,1986-09-03,2021-05-20,,,HR,HR Assistant,Entry,"San Francisco, CA",60667,,[3],1063.0
+1085,Sharon,Beard,Male,Two or More Races,1989-01-24,2022-09-21,2023-11-21,Terminated - Performance,Finance,Finance Analyst,Mid,"San Francisco, CA",62351,,2,1028.0
+1086,Timothy,Porter,Non-binary,Asian,1992-10-28,2020-12-14,,,Finance,Finance Manager,Mid,"New York, NY",70431,,[3],1068.0
+1087,Zachary,Jenkins,Non-binary,Two or More Races,1988-07-05,2022-03-14,,,Finance,Finance Manager,Mid,"Chicago, IL",70742,,[5],1013.0
+1088,David,Davis,Non-binary,Black or African American,1983-08-29,2022-01-10,,,HR,HR Assistant,Entry,"New York, NY",64281,,[4],1008.0
+1089,David,Campbell,Female,Asian,1986-08-28,2022-03-20,,,HR,HR Specialist,Mid,Remote,65014,,[5],1032.0
+1090,Daniel,Mcdonald,Male,Two or More Races,1994-07-31,2022-11-06,,,Engineering,Senior Engineer,Senior,Remote,112465,,[1],1049.0
+1091,Jeffrey,Mcdowell,Female,Two or More Races,1995-10-27,2020-06-14,,,Sales,Sales Associate,Mid,"New York, NY",84265,,[5],1053.0
+1092,Mark,Gibson,Female,Two or More Races,1999-02-14,2023-03-14,,,Engineering,Junior Engineer,Entry,"Chicago, IL",63488,,[4],1047.0
+1093,Sandra,Hoffman,Female,Black or African American,1982-08-01,2019-08-26,,,HR,HR Specialist,Mid,"New York, NY",70019,,[1],1051.0
+1094,Tiffany,Carroll,Non-binary,Black or African American,1995-02-11,2021-05-12,2022-03-04,Terminated - Performance,Marketing,Senior Specialist,Senior,"Austin, TX",96332,,2,1009.0
+1095,Elizabeth,Jones,Female,Hispanic or Latino,1989-08-14,2021-07-15,2024-01-19,Retired,HR,HR Business Partner,Mid,Remote,78185,,[1],1065.0
+1096,Lisa,Hall,Non-binary,Two or More Races,1991-07-23,2021-02-08,,,Marketing,Senior Specialist,Senior,"New York, NY",114381,,[4],1042.0
+1097,Derek,Jimenez,Non-binary,Hispanic or Latino,1995-03-21,2021-11-03,2026-01-13,Terminated - Performance,Marketing,Marketing Specialist,Mid,"New York, NY",60110,,1,1064.0
+1098,Andrew,Walker,Male,Hispanic or Latino,1990-08-10,2023-02-20,,,Marketing,Senior Specialist,Senior,"Austin, TX",101080,,[1],1057.0
+1099,Hunter,Henry,Male,Asian,1983-03-31,2022-02-12,,,Sales,Senior Account Executive,Senior,Remote,103426,,[4],1058.0
+1100,Connie,Thomas,Female,White,1988-05-22,2020-04-18,,,HR,HR Assistant,Entry,"Chicago, IL",66537,,[2],1050.0
+1101,Lauren,Allen,Male,White,1980-07-12,2020-04-09,,,Finance,Finance Manager,Mid,"New York, NY",75363,,[2],1068.0
+1102,Heather,Stephens,Non-binary,Black or African American,1992-11-26,2021-05-01,2023-11-05,Terminated - Performance,Marketing,Marketing Coordinator,Entry,"San Francisco, CA",47805,,2,1009.0
+1103,Tom,Wallace,Male,White,1997-01-25,2021-04-25,,,Engineering,Junior Engineer,Entry,"Chicago, IL",49736,,[1],1079.0
+1104,Kelly,Hernandez,Non-binary,White,1990-12-02,2021-01-29,,,Engineering,Software Engineer,Mid,"San Francisco, CA",89284,,[3],1015.0
+1105,Lauren,Nelson,Male,Hispanic or Latino,1991-11-04,2021-01-01,,,HR,HR Specialist,Mid,"Chicago, IL",71962,,[2],1008.0
+1106,Devin,Vaughan,Non-binary,Hispanic or Latino,1988-12-31,2020-03-26,2023-03-30,Resigned - Better Opportunity,Marketing,Marketing Specialist,Mid,"San Francisco, CA",65077,,[3],1062.0
+1107,Debra,Williams,Non-binary,Asian,1988-10-11,2019-11-11,,,HR,HR Assistant,Entry,Remote,46122,,[3],1029.0
+1108,Kevin,Livingston,Female,Two or More Races,1983-01-09,2022-05-15,2024-02-14,Terminated - Performance,Engineering,Software Engineer,Mid,"Austin, TX",84003,,1,1078.0
+1109,Lisa,Davis,Female,Black or African American,1990-10-25,2020-05-22,,,Sales,Sales Associate,Mid,Remote,62223,,[4],1031.0
+1110,Stephanie,Griffith,Male,White,1984-05-10,2022-09-05,,,HR,HR Specialist,Mid,"Austin, TX",69118,,[4],1052.0
+1111,Erika,Hart,Male,Asian,1996-12-23,2020-03-24,,,Marketing,Marketing Specialist,Mid,"San Francisco, CA",79421,,[5],1025.0
+1112,Sandra,Simmons,Female,Asian,1991-09-09,2020-06-11,,,HR,HR Business Partner,Mid,"Austin, TX",85079,,[5],1021.0
+1113,Jessica,Simon,Non-binary,Two or More Races,1983-04-07,2023-01-16,,,Marketing,Marketing Specialist,Mid,"Austin, TX",85024,,[1],1007.0
+1114,Lisa,Monroe,Non-binary,Asian,1997-09-06,2022-08-18,,,Marketing,Marketing Specialist,Mid,Remote,88845,,[1],1062.0
+1115,Mason,Barton,Female,Black or African American,1994-01-07,2020-06-18,,,HR,HR Specialist,Mid,"Chicago, IL",88539,,[3],1014.0
+1116,Jennifer,Williams,Male,White,1995-11-13,2021-02-01,,,Sales,Sales Associate,Mid,"San Francisco, CA",76733,,[4],1031.0
+1117,Susan,Sanford,Female,White,1990-05-04,2022-11-03,,,Finance,Senior Analyst,Senior,"Chicago, IL",95252,,[1],1046.0
+1118,Amanda,Garcia,Non-binary,Black or African American,1998-06-29,2021-02-05,,,Engineering,Software Engineer,Mid,"Austin, TX",68551,,[5],1055.0
+1119,Nancy,Carey,Female,White,1983-10-14,2023-06-02,,,Sales,Sales Associate,Mid,"Austin, TX",80619,,[5],1018.0
+1120,Amanda,Harper,Non-binary,Asian,1998-08-12,2020-11-18,,,HR,HR Assistant,Entry,"New York, NY",50675,,[4],1063.0
+1121,Cynthia,Farrell,Female,Asian,1991-07-30,2020-01-15,,,Engineering,Junior Engineer,Entry,"San Francisco, CA",66278,,[4],1027.0
+1122,Anna,Johnson,Non-binary,White,1988-01-07,2021-03-21,,,Sales,Account Executive,Mid,"San Francisco, CA",79337,,[4],1011.0
+1123,Nicole,Holmes,Male,Hispanic or Latino,1989-11-26,2019-09-09,,,Marketing,Senior Specialist,Senior,"San Francisco, CA",113877,,[2],1041.0
+1124,Sara,Reed,Non-binary,Hispanic or Latino,1985-07-25,2021-02-24,,,HR,HR Assistant,Entry,Remote,67043,,[4],1072.0
+1125,Teresa,Long,Male,White,1993-03-10,2021-04-09,,,Marketing,Marketing Specialist,Mid,"San Francisco, CA",62298,,[5],1022.0
+1126,Billy,Raymond,Male,Hispanic or Latino,1994-03-12,2020-01-10,,,Finance,Finance Manager,Mid,"Austin, TX",73101,,[3],1036.0
+1127,Paul,Pearson,Non-binary,White,1981-11-06,2020-02-16,,,Marketing,Marketing Specialist,Mid,"Chicago, IL",60029,,[1],1007.0
+1128,James,Davenport,Non-binary,Asian,1991-11-24,2020-01-31,,,Marketing,Marketing Specialist,Mid,"Austin, TX",79760,,[4],1041.0
+1129,Michele,Robbins,Non-binary,Asian,1996-10-09,2019-11-06,,,Finance,Finance Manager,Mid,"New York, NY",72965,,[3],1077.0
+1130,Bonnie,Cohen,Female,Asian,1992-12-16,2021-11-09,,,Marketing,Marketing Coordinator,Entry,"Austin, TX",53239,,[1],1034.0
+1131,Tom,Moore,Female,Black or African American,1991-06-25,2021-10-18,,,HR,HR Assistant,Entry,Remote,57185,,[4],1080.0
+1132,Kerry,Coleman,Male,Black or African American,1987-10-24,2020-05-05,,,Sales,Senior Account Executive,Senior,"New York, NY",106317,,[4],1031.0
+1133,Jordan,Newman,Non-binary,White,1985-07-15,2023-02-23,,,Sales,Sales Associate,Mid,Remote,60371,,[3],1017.0
+1134,Timothy,Thomas,Female,Hispanic or Latino,1997-01-09,2022-06-01,,,Engineering,Software Engineer,Mid,"San Francisco, CA",62242,,[3],1010.0
+1135,Sharon,Perkins,Male,Black or African American,1995-07-24,2023-08-08,,,Marketing,Marketing Specialist,Mid,Remote,82916,,[1],1067.0
+1136,Benjamin,Taylor,Non-binary,Hispanic or Latino,1982-07-27,2020-07-08,,,Finance,Finance Analyst,Mid,"San Francisco, CA",86014,,[2],1069.0
+1137,Christopher,Smith,Female,Asian,1996-12-04,2022-09-21,,,HR,HR Business Partner,Mid,Remote,70001,,[3],1032.0
+1138,Christine,Osborne,Female,Asian,1986-08-20,2021-07-12,2024-10-19,Resigned - Personal,Finance,Senior Analyst,Senior,"Chicago, IL",102894,,[4],1068.0
+1139,Rachel,Lopez,Male,White,1997-09-24,2020-02-11,,,Finance,Finance Manager,Mid,"Austin, TX",87693,,[3],1013.0
+1140,Anita,Vasquez,Non-binary,White,1986-08-01,2019-09-16,,,HR,HR Assistant,Entry,"Chicago, IL",64754,,[5],1072.0
+1141,Troy,Parrish,Female,Asian,1994-09-22,2021-10-04,,,HR,HR Specialist,Mid,Remote,85525,,[1],1072.0
+1142,Justin,Carroll,Non-binary,Hispanic or Latino,1986-05-08,2023-01-04,,,Sales,Sales Associate,Mid,"San Francisco, CA",75021,,[2],1056.0
+1143,Jacqueline,Caldwell,Male,Asian,1981-12-07,2020-06-04,2024-01-23,Resigned - Personal,HR,HR Assistant,Entry,"Chicago, IL",47582,,[1],1026.0
+1144,Brenda,Dixon,Non-binary,Two or More Races,1984-10-21,2022-08-02,,,HR,HR Assistant,Entry,"San Francisco, CA",53893,,[5],1040.0
+1145,Michael,Ray,Male,Two or More Races,1993-09-04,2021-11-02,,,Engineering,Junior Engineer,Entry,"Austin, TX",47523,,[3],1055.0
+1146,Eric,Johnson,Female,Black or African American,1985-07-06,2022-08-16,,,HR,HR Business Partner,Mid,Remote,61338,,[3],1052.0
+1147,Cheryl,Jones,Non-binary,White,1990-07-27,2020-07-04,,,Engineering,Software Engineer,Mid,Remote,60675,,[4],1019.0
+1148,Mark,Patterson,Female,White,1987-04-22,2019-04-24,,,Finance,Finance Manager,Mid,"Chicago, IL",71300,,[1],1043.0
+1149,Thomas,Mercer,Female,White,1993-05-13,2022-12-12,,,Sales,Sales Associate,Mid,"San Francisco, CA",85030,,[2],1024.0
+1150,Renee,Garcia,Non-binary,Asian,1992-12-02,2020-08-10,,,Engineering,Junior Engineer,Entry,"New York, NY",63924,,[2],1049.0
+1151,Carol,Brown,Female,Two or More Races,1990-11-24,2020-04-06,,,Sales,Sales Associate,Mid,"New York, NY",77927,,[5],1066.0
+1152,Melissa,Williams,Male,White,1987-12-01,2022-11-11,,,Engineering,Junior Engineer,Entry,"San Francisco, CA",51135,,[4],1074.0
+1153,Alexander,Cox,Male,Asian,1986-04-24,2022-12-03,,,Finance,Finance Manager,Mid,"Austin, TX",72584,,[2],1077.0
+1154,Cindy,Roberts,Non-binary,Hispanic or Latino,1994-02-04,2019-12-06,,,Finance,Finance Analyst,Mid,Remote,67638,,[3],1081.0
+1155,John,Hansen,Female,Black or African American,1988-11-19,2021-07-10,,,Marketing,Senior Specialist,Senior,Remote,100439,,[1],1041.0
+1156,Misty,Pacheco,Female,Black or African American,1986-07-27,2022-10-17,,,Sales,Account Executive,Mid,"New York, NY",84641,,[2],1058.0
+1157,Nancy,Jones,Female,Black or African American,1991-03-12,2021-12-07,,,Marketing,Marketing Specialist,Mid,"Austin, TX",71090,,[4],1041.0
+1158,Shannon,Mccoy,Male,Hispanic or Latino,1987-02-01,2022-10-24,,,Finance,Finance Manager,Mid,"Austin, TX",66110,,[4],1059.0
+1159,Carlos,Garcia,Non-binary,White,1990-10-02,2021-02-22,,,Marketing,Marketing Coordinator,Entry,"Chicago, IL",66276,,[4],1042.0
+1160,Joe,Freeman,Male,White,1987-01-06,2020-11-28,,,Engineering,Junior Engineer,Entry,"San Francisco, CA",52280,,[2],1044.0
+1161,Nicholas,Barnett,Male,White,1986-01-23,2022-03-24,,,Engineering,Senior Engineer,Senior,"Chicago, IL",98251,,[1],1033.0
+1162,Charles,Clay,Male,White,1996-10-10,2022-06-22,,,Marketing,Senior Specialist,Senior,"San Francisco, CA",106208,,[4],1041.0
+1163,Janet,Walker,Male,Hispanic or Latino,1982-03-14,2021-08-26,,,Engineering,Junior Engineer,Entry,"Austin, TX",55320,,[4],1078.0
+1164,Clifford,Jackson,Non-binary,Two or More Races,1985-09-19,2021-05-06,,,HR,HR Assistant,Entry,"New York, NY",55834,,[2],1014.0
+1165,Kenneth,Miller,Male,Hispanic or Latino,1982-04-22,2020-08-21,,,Finance,Senior Analyst,Senior,"Chicago, IL",112078,,[3],1028.0
+1166,Cody,Sherman,Non-binary,Two or More Races,1997-11-09,2023-07-12,,,Sales,Sales Associate,Mid,"Chicago, IL",69370,,[4],1073.0
+1167,Jeremy,Williams,Female,Hispanic or Latino,1983-08-21,2020-09-11,2024-03-04,Terminated - Performance,HR,HR Specialist,Mid,"New York, NY",76749,,1,1054.0
+1168,Thomas,Rojas,Non-binary,Black or African American,1982-03-12,2022-02-08,,,HR,HR Assistant,Entry,"Austin, TX",50745,,[1],1020.0
+1169,Brenda,Evans,Non-binary,Black or African American,1983-11-08,2020-12-28,,,Sales,Account Executive,Mid,"New York, NY",63255,,[5],1017.0
+1170,April,Roberts,Non-binary,Two or More Races,1991-02-22,2021-06-09,,,Engineering,Software Engineer,Mid,"Austin, TX",79252,,[2],1055.0
+1171,Rebekah,Knight,Non-binary,Two or More Races,1987-12-07,2021-05-02,,,Sales,Senior Account Executive,Senior,"Austin, TX",114027,,[2],1017.0
+1172,Matthew,Rowe,Non-binary,Two or More Races,1992-03-13,2020-08-17,2021-01-21,Retired,HR,HR Specialist,Mid,"San Francisco, CA",69159,,[2],1039.0
+1173,Andrew,Rose,Male,Two or More Races,1985-11-17,2020-06-12,,,HR,HR Assistant,Entry,"Austin, TX",47624,,[2],1060.0
+1174,Linda,Coleman,Female,White,1990-02-16,2021-02-27,,,Engineering,Junior Engineer,Entry,Remote,56179,,[4],1033.0
+1175,Christine,Pitts,Non-binary,White,1989-11-02,2019-08-26,,,Engineering,Senior Engineer,Senior,"Chicago, IL",113373,,[3],1048.0
+1176,Melissa,Burns,Female,Asian,1991-07-19,2021-07-26,,,Sales,Account Executive,Mid,"Austin, TX",71282,,[4],1056.0
+1177,Heather,Woodward,Non-binary,Hispanic or Latino,2000-10-13,2023-04-03,,,Finance,Finance Manager,Mid,"Chicago, IL",69370,,[3],1071.0
+1178,Matthew,Sosa,Male,White,1992-05-29,2022-01-01,,,Finance,Finance Manager,Mid,"Austin, TX",73300,,[4],1028.0
+1179,Patricia,Moore,Non-binary,Black or African American,1987-11-11,2020-05-05,,,Sales,Sales Associate,Mid,Remote,73579,,[5],1024.0
+1180,Grant,Pierce,Non-binary,Two or More Races,1987-05-16,2021-10-12,,,Marketing,Senior Specialist,Senior,Remote,106629,,[5],1064.0
+1181,Karen,Burns,Male,White,1993-05-23,2024-02-08,,,Marketing,Marketing Coordinator,Entry,"San Francisco, CA",53147,,[5],1064.0
+1182,Joseph,Monroe,Female,Hispanic or Latino,1993-03-06,2021-07-03,,,Finance,Senior Analyst,Senior,"Austin, TX",101952,,[2],1013.0
+1183,Patricia,Jones,Male,White,1982-09-03,2022-05-01,,,Sales,Account Executive,Mid,"San Francisco, CA",61027,,[5],1031.0
+1184,Stephanie,Gomez,Male,Asian,1983-03-29,2020-11-12,,,Marketing,Marketing Specialist,Mid,"New York, NY",72450,,[3],1062.0
+1185,Roberto,White,Male,White,1982-05-13,2021-03-08,,,Engineering,Software Engineer,Mid,"Chicago, IL",82054,,[3],1047.0
+1186,Mindy,Randolph,Female,White,1984-02-05,2020-04-09,2024-03-16,Retired,Marketing,Marketing Specialist,Mid,"Austin, TX",68592,,[3],1025.0
+1187,Christina,Collins,Male,Hispanic or Latino,1987-04-03,2022-07-01,,,Engineering,Senior Engineer,Senior,"Chicago, IL",104287,,[4],1015.0
+1188,Daisy,Andrews,Non-binary,Hispanic or Latino,1984-12-07,2021-02-08,,,Marketing,Senior Specialist,Senior,"Austin, TX",111358,,[5],1022.0
+1189,Angel,Henderson,Female,White,1990-08-31,2022-01-13,,,Marketing,Marketing Coordinator,Entry,"Chicago, IL",67403,,[3],1057.0
+1190,Matthew,Frye,Male,White,1995-08-02,2022-03-16,2024-02-17,Resigned - Personal,Marketing,Marketing Specialist,Mid,"New York, NY",85305,,[5],1030.0
+1191,Jacob,Williams,Male,Hispanic or Latino,1984-10-25,2019-07-14,,,Sales,Senior Account Executive,Senior,Remote,105205,,[2],1066.0
+1192,Kayla,Obrien,Female,Hispanic or Latino,1997-08-09,2020-01-31,,,Finance,Finance Analyst,Mid,"San Francisco, CA",67443,,[1],1077.0
+1193,David,Bauer,Male,White,1994-12-04,2019-06-25,,,Finance,Finance Analyst,Mid,"Austin, TX",79523,,[5],1043.0
+1194,Elizabeth,Stewart,Non-binary,Hispanic or Latino,1991-08-16,2020-12-01,,,Engineering,Junior Engineer,Entry,"New York, NY",57705,,[1],1055.0
+1195,John,Lee,Non-binary,White,1981-08-01,2021-05-08,,,Finance,Finance Analyst,Mid,"Austin, TX",86708,,[5],1076.0
+1196,Daniel,Page,Non-binary,Hispanic or Latino,1997-06-10,2022-11-26,,,Finance,Senior Analyst,Senior,Remote,100007,,[5],1059.0
+1197,Jeffery,Harding,Male,White,1987-11-02,2021-11-24,,,Finance,Finance Manager,Mid,Remote,66211,,[3],1046.0
+1198,Matthew,Webb,Female,White,1986-09-23,2023-06-21,,,Engineering,Junior Engineer,Entry,Remote,66239,,[4],1044.0
+1199,Kenneth,Harper,Male,Hispanic or Latino,1998-02-17,2021-08-30,,,Sales,Senior Account Executive,Senior,"Austin, TX",105480,,[5],1053.0
+1200,Andrea,Fox,Non-binary,Two or More Races,1990-06-24,2021-05-21,,,Finance,Finance Manager,Mid,"Austin, TX",70112,,[5],1068.0
+1201,Arthur,Davila,Non-binary,Black or African American,1988-07-24,2020-08-15,,,Sales,Sales Associate,Mid,"Chicago, IL",77178,,[5],1075.0
+1202,Jennifer,Olson,Female,White,1987-11-07,2020-03-09,,,Sales,Account Executive,Mid,"San Francisco, CA",77624,,[2],1045.0
+1203,John,Webb,Male,Two or More Races,1990-02-22,2021-06-08,,,Marketing,Marketing Specialist,Mid,Remote,62528,,[5],1025.0
+1204,Christopher,Yu,Male,White,1987-08-25,2020-09-06,,,HR,HR Specialist,Mid,"New York, NY",89539,,[2],1065.0
+1205,Lee,Collier,Non-binary,White,1993-11-14,2021-11-16,2024-06-12,Retired,HR,HR Specialist,Mid,"Chicago, IL",72174,,[3],1065.0
+1206,Carlos,Ramos,Female,White,1988-06-27,2023-02-20,,,Marketing,Marketing Coordinator,Entry,"San Francisco, CA",52791,,[5],1009.0
+1207,Jessica,Hess,Non-binary,White,1988-02-23,2022-10-18,,,Finance,Finance Manager,Mid,"Chicago, IL",60373,,[1],1077.0
+1208,Lauren,Hamilton,Female,Black or African American,1991-03-01,2021-06-14,,,Finance,Finance Manager,Mid,"San Francisco, CA",71283,,[1],1043.0
+1209,Grant,Malone,Female,Hispanic or Latino,1998-07-31,2021-04-21,,,Sales,Senior Account Executive,Senior,"San Francisco, CA",97471,,[1],1075.0
+1210,Donald,Bryan,Non-binary,Black or African American,1982-02-06,2022-01-01,,,HR,HR Specialist,Mid,"Austin, TX",76394,,[2],1029.0
+1211,Stephanie,Taylor,Male,White,1990-05-13,2020-07-09,2022-03-31,Retired,Sales,Sales Associate,Mid,"Chicago, IL",71043,,[3],1056.0
+1212,Stacy,Shaw,Female,Two or More Races,1990-10-03,2022-07-29,,,Engineering,Software Engineer,Mid,"Austin, TX",66942,,[3],1019.0
+1213,Patricia,Baker,Non-binary,White,1990-03-01,2019-04-05,,,Sales,Senior Account Executive,Senior,"Chicago, IL",95444,,[4],1037.0
+1214,Walter,Brewer,Female,Hispanic or Latino,1993-11-30,2021-08-28,,,Finance,Senior Analyst,Senior,Remote,104690,,[5],1071.0
+1215,Jeremy,Brown,Non-binary,White,1986-10-21,2020-11-02,,,Marketing,Senior Specialist,Senior,"New York, NY",98887,,[3],1062.0
+1216,Lisa,Meza,Non-binary,Hispanic or Latino,1987-06-23,2020-03-28,,,Engineering,Software Engineer,Mid,"San Francisco, CA",82212,,[1],1070.0
+1217,Caitlin,Wright,Male,Black or African American,1985-09-06,2020-10-15,,,Engineering,Senior Engineer,Senior,"New York, NY",104110,,[3],1044.0
+1218,Katelyn,Jones,Male,Hispanic or Latino,1994-03-07,2021-05-30,,,HR,HR Assistant,Entry,"San Francisco, CA",62351,,[4],1080.0
+1219,Sarah,Austin,Female,Black or African American,1991-05-04,2023-10-17,,,Finance,Senior Analyst,Senior,"Austin, TX",103150,,[2],1076.0
+1220,Annette,Prince,Non-binary,Hispanic or Latino,1987-03-12,2020-05-21,,,Engineering,Senior Engineer,Senior,"San Francisco, CA",108472,,[2],1078.0
+1221,Mario,Brown,Female,Two or More Races,1991-11-17,2022-02-20,,,Finance,Finance Manager,Mid,"New York, NY",87837,,[2],1043.0
+1222,Kelly,King,Female,Hispanic or Latino,1984-01-24,2021-02-11,,,Finance,Finance Analyst,Mid,"New York, NY",60961,,[3],1043.0
+1223,Samantha,Hansen,Male,Asian,1992-05-09,2020-08-13,2022-01-31,Terminated - Performance,HR,HR Business Partner,Mid,Remote,78140,,1,1080.0
+1224,Mark,Cruz,Female,Hispanic or Latino,1982-01-31,2021-07-12,,,Marketing,Marketing Coordinator,Entry,"New York, NY",68952,,[5],1034.0
+1225,Christine,Price,Female,Two or More Races,1991-09-20,2022-05-09,,,HR,HR Business Partner,Mid,Remote,72983,,[2],1065.0
+1226,Bruce,Diaz,Female,Hispanic or Latino,1982-10-03,2019-12-21,,,Engineering,Software Engineer,Mid,"Austin, TX",89754,,[4],1010.0
+1227,Shannon,Hale,Male,Hispanic or Latino,1983-06-24,2020-07-01,,,HR,HR Business Partner,Mid,Remote,79576,,[3],1029.0
+1228,Christopher,Kelly,Female,Black or African American,1979-09-26,2019-04-21,,,Engineering,Software Engineer,Mid,"San Francisco, CA",63234,,[1],1070.0
+1229,Teresa,Adams,Female,Black or African American,1986-04-06,2019-12-07,,,Engineering,Senior Engineer,Senior,"Chicago, IL",106506,,[3],1010.0
+1230,Natalie,Patterson,Female,White,1982-02-20,2021-09-11,,,Finance,Finance Analyst,Mid,"Chicago, IL",76397,,[2],1069.0
+1231,Cheryl,Martinez,Male,Two or More Races,1996-07-20,2021-06-27,,,Marketing,Marketing Specialist,Mid,"New York, NY",88099,,[3],1007.0
+1232,Deborah,Stanley,Non-binary,Asian,1993-02-04,2022-09-05,,,Marketing,Senior Specialist,Senior,Remote,101243,,[1],1007.0
+1233,Paula,Bell,Male,Two or More Races,1982-12-28,2019-09-10,,,Sales,Account Executive,Mid,"New York, NY",87891,,[3],1045.0
+1234,Jake,Wright,Non-binary,Two or More Races,1987-06-20,2022-06-26,,,Engineering,Junior Engineer,Entry,Remote,48930,,[3],1047.0
+1235,Daniel,Taylor,Female,White,1995-04-21,2023-03-11,,,Finance,Senior Analyst,Senior,"San Francisco, CA",96095,,[4],1071.0
+1236,Jill,Porter,Non-binary,White,1982-10-07,2022-04-16,,,HR,HR Specialist,Mid,"San Francisco, CA",63075,,[4],1052.0
+1237,Kelly,Dominguez,Non-binary,White,1997-05-09,2021-10-08,,,Marketing,Senior Specialist,Senior,Remote,109724,,[4],1009.0
+1238,Valerie,Murphy,Male,Two or More Races,1994-03-15,2020-10-11,,,HR,HR Specialist,Mid,Remote,63523,,[5],1008.0
+1239,Kimberly,Gonzales,Female,Asian,1984-08-10,2020-10-14,2025-02-20,Resigned - Personal,Finance,Senior Analyst,Senior,"San Francisco, CA",113023,,[5],1081.0
+1240,David,Lee,Male,White,1981-05-25,2020-12-23,,,Finance,Senior Analyst,Senior,"Chicago, IL",112562,,[5],1043.0
+1241,Robert,Clayton,Male,Two or More Races,1983-04-15,2019-09-29,,,HR,HR Specialist,Mid,Remote,80940,,[4],1051.0
+1242,Belinda,Andrews,Female,Asian,1987-11-26,2022-01-16,,,HR,HR Specialist,Mid,"Austin, TX",79414,,[5],1065.0
+1243,Ana,Mullins,Female,White,1990-12-19,2023-05-08,,,Sales,Senior Account Executive,Senior,Remote,114915,,[2],1056.0
+1244,Justin,Castro,Non-binary,Asian,1986-06-20,2022-09-20,,,Marketing,Marketing Coordinator,Entry,"New York, NY",51996,,[4],1022.0
+1245,Beth,Clayton,Non-binary,Asian,1986-05-02,2021-03-24,2023-11-09,Retired,Sales,Senior Account Executive,Senior,Remote,101091,,[2],1018.0
+1246,Albert,Hansen,Male,Black or African American,1990-10-31,2021-08-27,,,Engineering,Software Engineer,Mid,Remote,81266,,[1],1070.0
+1247,Katherine,Foster,Non-binary,Hispanic or Latino,1981-04-11,2021-02-17,,,Finance,Finance Analyst,Mid,"Chicago, IL",71033,,[1],1043.0
+1248,Matthew,Payne,Male,White,1995-10-06,2022-04-23,,,Sales,Account Executive,Mid,"Austin, TX",86392,,[3],1024.0
+1249,Summer,Hunt,Non-binary,Two or More Races,1994-10-30,2022-11-07,,,Marketing,Marketing Specialist,Mid,"San Francisco, CA",72748,,[4],1034.0
+1250,Amanda,Cook,Male,Hispanic or Latino,1988-11-21,2021-11-01,,,Marketing,Marketing Coordinator,Entry,Remote,67514,,[4],1030.0
+1251,Dorothy,Collins,Non-binary,White,1995-06-10,2022-04-03,2024-06-05,Terminated - Performance,Finance,Senior Analyst,Senior,Remote,111994,,1,1028.0
+1252,John,Ramos,Non-binary,Hispanic or Latino,1990-01-02,2023-08-14,2025-11-16,Terminated - Performance,HR,HR Business Partner,Mid,"Chicago, IL",87033,,1,1040.0
+1253,Kimberly,Taylor,Male,Hispanic or Latino,1997-09-01,2023-12-07,,,Marketing,Senior Specialist,Senior,"San Francisco, CA",99206,,[2],1038.0
+1254,Elizabeth,Gutierrez,Non-binary,Black or African American,1981-09-07,2019-07-29,2021-01-05,Resigned - Better Opportunity,Finance,Finance Analyst,Mid,"Chicago, IL",66704,,[1],1043.0
+1255,Austin,Moore,Non-binary,Black or African American,1991-06-16,2021-07-26,,,HR,HR Assistant,Entry,"New York, NY",49062,,[2],1026.0
+1256,Anthony,Freeman,Male,Two or More Races,1981-05-09,2019-08-29,,,Marketing,Senior Specialist,Senior,"San Francisco, CA",103694,,[1],1041.0
+1257,Cory,Lane,Non-binary,Asian,1991-11-25,2022-08-10,,,Finance,Finance Analyst,Mid,"San Francisco, CA",84949,,[2],1013.0
+1258,Sarah,Elliott,Non-binary,Two or More Races,1998-08-28,2021-03-02,,,Finance,Finance Manager,Mid,"New York, NY",81391,,[4],1076.0
+1259,Martin,Williams,Female,Hispanic or Latino,2000-04-08,2022-11-25,,,Sales,Sales Associate,Mid,Remote,76763,,[5],1017.0
+1260,Bryan,Brown,Non-binary,White,1985-10-26,2021-06-02,,,Engineering,Junior Engineer,Entry,"Chicago, IL",55463,,[2],1078.0
+1261,Amy,Allen,Male,Hispanic or Latino,1985-12-06,2022-02-17,,,Engineering,Junior Engineer,Entry,"Austin, TX",55675,,[4],1035.0
+1262,Phyllis,Koch,Non-binary,Hispanic or Latino,1991-01-29,2020-04-27,2020-10-29,Terminated - Performance,Engineering,Junior Engineer,Entry,Remote,53526,,1,1010.0
+1263,Patrick,Daniels,Female,Asian,1987-02-19,2021-03-13,,,HR,HR Specialist,Mid,"Austin, TX",82753,,[3],1052.0
+1264,Bianca,Williams,Non-binary,White,1999-01-06,2021-03-25,,,Finance,Senior Analyst,Senior,"Austin, TX",98995,,[4],1059.0
+1265,Olivia,Lara,Female,White,1985-07-06,2022-10-23,2024-04-10,Retired,Marketing,Marketing Specialist,Mid,"New York, NY",72838,,[5],1062.0
+1266,Kimberly,Walsh,Male,White,1981-10-25,2020-02-27,,,Engineering,Software Engineer,Mid,"Chicago, IL",60517,,[5],1070.0
+1267,Sean,Thompson,Non-binary,Black or African American,1989-04-12,2022-06-11,,,Sales,Sales Associate,Mid,"New York, NY",89674,,[5],1066.0
+1268,Brian,Coleman,Male,Two or More Races,1999-05-02,2021-05-12,,,Finance,Finance Analyst,Mid,Remote,65230,,[3],1068.0
+1269,Linda,Barber,Non-binary,White,1985-06-28,2022-06-06,,,Engineering,Senior Engineer,Senior,"Austin, TX",104181,,[2],1049.0
+1270,Andrew,Hess,Male,Two or More Races,1989-09-06,2020-07-22,,,Marketing,Marketing Specialist,Mid,"Austin, TX",62137,,[3],1025.0
+1271,Tammy,Gallagher,Male,Two or More Races,1986-05-01,2020-10-24,,,Sales,Account Executive,Mid,"San Francisco, CA",80699,,[5],1018.0
+1272,Erik,Fowler,Non-binary,Asian,1989-09-15,2020-06-23,,,Marketing,Senior Specialist,Senior,Remote,107633,,[3],1062.0
+1273,Bryce,Salazar,Non-binary,White,1993-06-19,2022-06-30,2026-01-01,Resigned - Personal,HR,HR Specialist,Mid,Remote,63043,,[5],1063.0
+1274,Michael,Harrington,Non-binary,Asian,1996-12-19,2022-03-07,2023-03-04,Resigned - Personal,Engineering,Software Engineer,Mid,"San Francisco, CA",87544,,[1],1027.0
+1275,Gregory,Stone,Male,Asian,1986-11-07,2021-02-19,,,HR,HR Assistant,Entry,"San Francisco, CA",52616,,[5],1054.0
+1276,Kevin,Clark,Female,Black or African American,1987-07-05,2019-02-21,,,Engineering,Junior Engineer,Entry,"San Francisco, CA",57247,,[4],1035.0
+1277,Kevin,Cervantes,Male,Hispanic or Latino,1985-11-16,2020-02-17,,,Finance,Finance Analyst,Mid,"Chicago, IL",77749,,[2],1023.0
+1278,Melanie,Oliver,Female,Asian,1991-12-20,2022-11-27,,,Marketing,Senior Specialist,Senior,"San Francisco, CA",108915,,[3],1038.0
+1279,Brittany,Brown,Male,Two or More Races,1996-07-19,2023-03-23,,,Finance,Finance Analyst,Mid,"Austin, TX",84216,,[3],1046.0
+1280,Diana,Macdonald,Female,Black or African American,1986-02-15,2021-04-01,,,Engineering,Junior Engineer,Entry,"Chicago, IL",60645,,[3],1019.0
+1281,Megan,Roberts,Male,Two or More Races,1981-10-13,2021-06-19,,,Sales,Senior Account Executive,Senior,"Chicago, IL",107751,,[2],1024.0
+1282,Adam,Guzman,Male,Asian,1982-04-20,2020-11-23,,,Marketing,Senior Specialist,Senior,"New York, NY",108757,,[3],1022.0
+1283,Amanda,Burgess,Non-binary,Black or African American,1991-12-17,2020-02-21,,,Engineering,Senior Engineer,Senior,"Austin, TX",112947,,[3],1078.0
+1284,Brandon,Cannon,Female,White,1987-11-29,2021-05-01,2022-03-07,Resigned - Personal,Sales,Sales Associate,Mid,Remote,88603,,[5],1018.0
+1285,Mark,Walton,Female,Black or African American,1997-02-06,2020-07-14,2025-03-12,Retired,Sales,Sales Associate,Mid,"New York, NY",89362,,[3],1058.0
+1286,Frederick,Russo,Female,Asian,1991-07-11,2022-09-15,,,Marketing,Marketing Coordinator,Entry,"Austin, TX",52561,,[2],1064.0
+1287,Margaret,Jones,Female,Asian,1998-12-22,2021-03-07,,,Marketing,Marketing Coordinator,Entry,"Chicago, IL",55734,,[2],1009.0
+1288,Elizabeth,Gomez,Non-binary,Black or African American,1982-07-18,2020-10-24,2023-12-15,Resigned - Personal,HR,HR Business Partner,Mid,"San Francisco, CA",63252,,[2],1054.0
+1289,Eric,Herrera,Female,White,1987-08-02,2021-03-03,2021-12-13,Resigned - Better Opportunity,Sales,Sales Associate,Mid,"New York, NY",79111,,[3],1017.0
+1290,Heather,Bartlett,Non-binary,Asian,1992-03-24,2021-02-22,,,Finance,Finance Analyst,Mid,"San Francisco, CA",83257,,[4],1036.0
+1291,Sara,Weber,Male,Two or More Races,1988-10-09,2021-11-02,,,Sales,Senior Account Executive,Senior,"San Francisco, CA",110148,,[1],1037.0
+1292,Jeremiah,Ochoa,Non-binary,White,1996-05-24,2022-09-11,,,Finance,Senior Analyst,Senior,"New York, NY",111844,,[4],1046.0
+1293,Robert,Potter,Male,Asian,1984-01-25,2020-09-12,,,Engineering,Junior Engineer,Entry,"Austin, TX",61989,,[2],1078.0
+1294,Joshua,Reed,Male,Hispanic or Latino,1982-03-29,2020-07-18,,,Marketing,Marketing Coordinator,Entry,Remote,53296,,[2],1009.0
+1295,Rebecca,Elliott,Non-binary,White,1998-02-01,2021-09-18,,,HR,HR Business Partner,Mid,"New York, NY",73005,,[2],1040.0
+1296,Sandra,Nguyen,Female,Asian,1982-02-13,2021-10-08,,,Sales,Sales Associate,Mid,Remote,78543,,[1],1031.0
+1297,Joan,Howard,Male,Hispanic or Latino,1984-04-26,2021-08-22,,,Marketing,Marketing Specialist,Mid,"Chicago, IL",70103,,[2],1064.0
+1298,Ronald,Charles,Male,Black or African American,1989-10-03,2019-10-27,,,HR,HR Specialist,Mid,"Chicago, IL",76911,,[4],1050.0
+1299,Michael,Jones,Male,Black or African American,1997-08-23,2021-07-22,,,Marketing,Senior Specialist,Senior,"San Francisco, CA",97956,,[2],1007.0
+1300,Troy,Baker,Female,Black or African American,1984-03-19,2022-01-10,,,Marketing,Marketing Specialist,Mid,"San Francisco, CA",62504,,[3],1022.0
+1301,Judy,Pineda,Non-binary,Black or African American,1989-05-09,2020-11-10,,,Engineering,Senior Engineer,Senior,"New York, NY",106477,,[1],1049.0
+1302,Christina,Arroyo,Female,Asian,1993-07-14,2020-08-18,,,Marketing,Marketing Specialist,Mid,"New York, NY",61631,,[4],1041.0
+1303,Andre,Williams,Non-binary,Black or African American,1993-10-03,2019-10-04,,,Sales,Senior Account Executive,Senior,"Austin, TX",100032,,[5],1058.0
+1304,Kimberly,Mendez,Male,White,1983-02-20,2021-08-23,,,Finance,Senior Analyst,Senior,"Austin, TX",114033,,[4],1012.0
+1305,Brittney,Sims,Non-binary,Black or African American,1995-01-26,2021-02-17,,,Sales,Sales Associate,Mid,"Chicago, IL",62074,,[2],1073.0
+1306,James,Wright,Non-binary,Black or African American,1997-08-16,2020-03-12,,,Marketing,Marketing Specialist,Mid,"Chicago, IL",82960,,[2],1041.0
+1307,Martha,Jones,Male,Asian,1989-06-18,2022-06-23,,,Marketing,Marketing Coordinator,Entry,"San Francisco, CA",58620,,[3],1064.0
+1308,Daniel,Smith,Non-binary,Two or More Races,1986-05-21,2020-12-10,,,HR,HR Business Partner,Mid,"Chicago, IL",62949,,[2],1014.0
+1309,Angelica,Lambert,Non-binary,White,1984-05-03,2022-07-27,,,Marketing,Marketing Specialist,Mid,"New York, NY",89529,,[1],1022.0
+1310,Levi,Young,Male,Two or More Races,1985-03-11,2022-11-06,,,Finance,Finance Manager,Mid,"New York, NY",82618,,[5],1028.0
+1311,George,Johnson,Male,Asian,1996-04-01,2021-02-02,,,HR,HR Business Partner,Mid,"New York, NY",70868,,[4],1032.0
+1312,Brett,Martinez,Male,Black or African American,1998-08-12,2022-03-09,,,HR,HR Business Partner,Mid,Remote,65418,,[5],1026.0
+1313,Lindsey,Larson,Male,Hispanic or Latino,1987-04-14,2019-12-22,,,Sales,Senior Account Executive,Senior,Remote,104372,,[4],1058.0
+1314,Edwin,Stewart,Female,Hispanic or Latino,1990-05-27,2021-06-24,,,Engineering,Senior Engineer,Senior,"San Francisco, CA",109887,,[3],1079.0
+1315,Kyle,Barrett,Male,Hispanic or Latino,1996-09-14,2022-05-02,2023-08-08,Resigned - Better Opportunity,Finance,Senior Analyst,Senior,"Chicago, IL",102961,,[3],1028.0
+1316,Gina,Wright,Female,Hispanic or Latino,1983-10-05,2022-01-29,,,Sales,Account Executive,Mid,"Austin, TX",70318,,[2],1066.0
+1317,Micheal,Mathis,Female,Two or More Races,1990-02-24,2021-12-05,,,Finance,Finance Analyst,Mid,Remote,60192,,[3],1012.0
+1318,Sara,Montgomery,Non-binary,Asian,2001-01-07,2023-03-30,,,Marketing,Marketing Coordinator,Entry,"Austin, TX",49796,,[4],1042.0
+1319,Brenda,Wang,Female,Hispanic or Latino,1991-08-30,2022-01-15,,,Marketing,Senior Specialist,Senior,"San Francisco, CA",100160,,[5],1041.0
+1320,Todd,Gross,Female,Black or African American,1989-07-14,2023-10-06,,,HR,HR Assistant,Entry,Remote,67410,,[1],1040.0
+1321,Deborah,Hobbs,Female,Hispanic or Latino,1993-07-26,2022-11-01,,,Finance,Senior Analyst,Senior,"San Francisco, CA",104198,,[5],1076.0
+1322,Kyle,Davis,Male,Two or More Races,1999-02-23,2021-11-06,,,Marketing,Marketing Coordinator,Entry,"Chicago, IL",50588,,[5],1042.0
+1323,Stephanie,Atkins,Non-binary,Black or African American,1986-09-02,2020-03-06,,,Finance,Finance Analyst,Mid,"New York, NY",70809,,[2],1081.0
+1324,Robert,Sellers,Female,Black or African American,1994-09-11,2020-01-16,,,HR,HR Assistant,Entry,"Chicago, IL",69829,,[5],1029.0
+1325,Jeremy,Mooney,Non-binary,Black or African American,1991-01-19,2021-06-17,,,Finance,Finance Manager,Mid,"San Francisco, CA",74516,,[5],1069.0
+1326,Stephen,Gonzalez,Male,Black or African American,1998-02-22,2021-04-02,2025-10-21,Retired,Sales,Account Executive,Mid,Remote,81033,,[3],1011.0
+1327,Megan,Walker,Male,White,1996-05-12,2020-08-13,,,Engineering,Junior Engineer,Entry,"New York, NY",49269,,[4],1049.0
+1328,Kimberly,Cole,Male,Black or African American,1990-03-17,2021-10-14,,,Marketing,Senior Specialist,Senior,"Chicago, IL",107753,,[3],1064.0
+1329,Rachel,Foster,Male,Asian,1990-02-01,2023-06-05,,,HR,HR Business Partner,Mid,"Chicago, IL",82369,,[5],1016.0
+1330,Eric,Sims,Male,Two or More Races,1995-06-05,2021-03-08,,,Engineering,Senior Engineer,Senior,Remote,110386,,[3],1010.0
+1331,Rachel,Weiss,Female,White,1983-01-02,2020-12-25,,,HR,HR Business Partner,Mid,"New York, NY",65137,,[1],1020.0
+1332,Thomas,Hernandez,Non-binary,Hispanic or Latino,1985-09-01,2022-06-21,,,Engineering,Senior Engineer,Senior,"Chicago, IL",103609,,[1],1079.0
+1333,Christopher,Johnson,Female,Black or African American,1983-06-10,2021-11-28,,,Finance,Finance Manager,Mid,"New York, NY",64152,,[1],1059.0
+1334,Anna,Williams,Male,Two or More Races,1984-12-28,2021-03-16,,,Finance,Senior Analyst,Senior,"Austin, TX",95364,,[3],1068.0
+1335,Phillip,Gonzalez,Female,Hispanic or Latino,1994-07-06,2022-01-29,,,Engineering,Junior Engineer,Entry,Remote,64906,,[3],1010.0
+1336,Victor,Contreras,Non-binary,Two or More Races,1997-03-16,2022-08-18,,,Marketing,Marketing Specialist,Mid,"New York, NY",86082,,[4],1038.0
+1337,Jessica,Perry,Non-binary,White,1988-01-08,2021-03-04,,,Engineering,Junior Engineer,Entry,"New York, NY",68063,,[4],1049.0
+1338,John,Hartman,Male,Asian,1984-02-19,2020-05-17,,,Sales,Sales Associate,Mid,"San Francisco, CA",82057,,[3],1024.0
+1339,Brian,Carlson,Non-binary,Black or African American,1993-11-02,2023-03-05,,,Engineering,Software Engineer,Mid,"New York, NY",62115,,[5],1079.0
+1340,Richard,Gibson,Male,Asian,1996-05-19,2021-09-22,,,Sales,Sales Associate,Mid,"Austin, TX",89002,,[2],1045.0
+1341,Tiffany,Estes,Female,Hispanic or Latino,1988-06-18,2021-11-04,,,Marketing,Marketing Coordinator,Entry,"Chicago, IL",55408,,[1],1030.0
+1342,Julie,Greer,Female,White,1993-12-16,2021-12-12,,,Finance,Senior Analyst,Senior,Remote,105480,,[3],1059.0
+1343,Erin,Mitchell,Male,Hispanic or Latino,1995-11-07,2021-10-12,,,Engineering,Junior Engineer,Entry,"New York, NY",69256,,[1],1048.0
+1344,John,Byrd,Non-binary,Black or African American,1992-06-08,2021-03-26,,,Marketing,Marketing Coordinator,Entry,"Austin, TX",55689,,[5],1057.0
+1345,Jeffrey,Jones,Non-binary,Black or African American,1988-09-29,2020-02-12,,,Marketing,Marketing Coordinator,Entry,"Austin, TX",54729,,[2],1022.0
+1346,Jill,Simmons,Male,Hispanic or Latino,1994-06-09,2022-05-13,,,Marketing,Marketing Coordinator,Entry,"Chicago, IL",49684,,[4],1030.0
+1347,Aaron,Rosales,Non-binary,White,1985-01-05,2022-11-29,,,Marketing,Marketing Coordinator,Entry,"Austin, TX",47210,,[2],1067.0
+1348,Sarah,Cummings,Female,White,1983-07-21,2021-03-03,,,Finance,Finance Analyst,Mid,Remote,76848,,[4],1043.0
+1349,Laurie,Cook,Female,Two or More Races,1983-03-11,2021-02-01,,,Engineering,Junior Engineer,Entry,"San Francisco, CA",65539,,[3],1010.0
+1350,Justin,Hernandez,Male,White,1997-07-11,2022-08-24,,,Marketing,Marketing Coordinator,Entry,"Austin, TX",63386,,[2],1041.0
+1351,Fernando,Lamb,Non-binary,Black or African American,1985-09-18,2019-09-03,,,Sales,Account Executive,Mid,"San Francisco, CA",68546,,[1],1037.0
+1352,Rachel,Johnson,Female,White,1990-06-11,2020-03-03,,,HR,HR Assistant,Entry,"New York, NY",57955,,[5],1008.0
+1353,Meghan,Anderson,Female,Asian,1984-05-22,2021-08-28,2024-02-13,Retired,Engineering,Senior Engineer,Senior,"Austin, TX",97759,,[4],1044.0
+1354,Kristine,Dickson,Female,White,1994-05-04,2022-07-27,,,Finance,Finance Manager,Mid,Remote,89666,,[3],1081.0
+1355,Casey,Woods,Non-binary,Black or African American,1990-10-18,2022-03-16,,,Engineering,Junior Engineer,Entry,"Austin, TX",66008,,[2],1010.0
+1356,Jodi,Dawson,Non-binary,Asian,1985-10-30,2021-04-25,,,Finance,Finance Analyst,Mid,"San Francisco, CA",89629,,[3],1069.0
+1357,Melissa,Richardson,Non-binary,Asian,1988-02-09,2022-01-20,,,Sales,Account Executive,Mid,"San Francisco, CA",84143,,[3],1073.0
+1358,Jacob,Reese,Female,Hispanic or Latino,1999-01-22,2021-10-14,,,HR,HR Assistant,Entry,"New York, NY",64955,,[1],1014.0
+1359,Dan,Garcia,Male,Asian,1993-08-03,2021-09-26,,,HR,HR Assistant,Entry,Remote,66812,,[2],1032.0
+1360,Elizabeth,Valdez,Female,Asian,1993-01-21,2022-10-23,,,Finance,Finance Analyst,Mid,"San Francisco, CA",61708,,[1],1081.0
+1361,Patrick,Ross,Non-binary,White,1994-10-19,2020-07-16,,,Finance,Finance Manager,Mid,Remote,88209,,[4],1077.0
+1362,Melissa,Zavala,Male,Two or More Races,1998-07-05,2023-03-02,,,Finance,Finance Manager,Mid,"Austin, TX",68083,,[1],1076.0
+1363,Aaron,Ruiz,Female,Hispanic or Latino,1986-06-22,2020-06-06,,,Finance,Finance Analyst,Mid,"San Francisco, CA",60479,,[2],1081.0
+1364,Christine,Lewis,Non-binary,Black or African American,1987-07-15,2021-08-20,,,HR,HR Business Partner,Mid,Remote,85219,,[5],1052.0
+1365,Ann,Robinson,Non-binary,Black or African American,1995-03-10,2019-04-29,,,Engineering,Software Engineer,Mid,Remote,86784,,[1],1035.0
+1366,Troy,Robinson,Non-binary,Black or African American,1983-12-12,2021-06-19,,,Engineering,Senior Engineer,Senior,Remote,114348,,[1],1019.0
+1367,Joshua,Landry,Non-binary,Hispanic or Latino,1992-06-29,2022-04-02,,,HR,HR Specialist,Mid,Remote,62837,,[2],1039.0
+1368,Elizabeth,Liu,Female,White,1994-10-01,2023-01-08,,,Sales,Account Executive,Mid,Remote,88314,,[2],1017.0
+1369,Donna,Adams,Male,White,1989-02-02,2021-05-15,2023-04-27,Resigned - Better Opportunity,Sales,Sales Associate,Mid,"New York, NY",88752,,[4],1011.0
+1370,Nichole,Robertson,Non-binary,Asian,1983-12-23,2021-09-16,,,Engineering,Senior Engineer,Senior,"Chicago, IL",112460,,[2],1055.0
+1371,Emily,Li,Male,Black or African American,1995-06-28,2021-11-15,2026-02-20,Resigned - Personal,Sales,Senior Account Executive,Senior,"Austin, TX",104884,,[3],1066.0
+1372,Angela,Torres,Non-binary,Hispanic or Latino,1983-06-09,2019-07-31,,,HR,HR Assistant,Entry,"San Francisco, CA",67307,,[4],1029.0
+1373,Stephanie,Mcdonald,Male,Black or African American,1985-08-27,2020-10-26,,,Engineering,Software Engineer,Mid,"Austin, TX",74731,,[4],1015.0
+1374,Jack,Armstrong,Female,Two or More Races,1991-08-31,2020-01-28,,,Sales,Senior Account Executive,Senior,"Austin, TX",102046,,[4],1058.0
+1375,Charles,Jensen,Female,Black or African American,1998-05-01,2021-11-04,,,Marketing,Marketing Specialist,Mid,"New York, NY",62413,,[3],1007.0
+1376,Shawn,Cooper,Female,Asian,1996-12-29,2021-01-27,,,Marketing,Marketing Specialist,Mid,"San Francisco, CA",66651,,[2],1025.0
+1377,Wendy,Sanchez,Non-binary,Asian,1983-12-13,2020-04-14,,,Finance,Senior Analyst,Senior,Remote,108624,,[2],1043.0
+1378,Donna,Murphy,Female,Hispanic or Latino,1991-07-02,2022-02-25,2026-02-18,Terminated - Performance,Engineering,Software Engineer,Mid,"San Francisco, CA",76618,,2,1019.0
+1379,Monique,Lee,Non-binary,Black or African American,1992-09-14,2020-05-08,,,Sales,Account Executive,Mid,"Austin, TX",69596,,[3],1075.0
+1380,Julie,Washington,Non-binary,Two or More Races,1984-12-10,2019-05-01,,,Sales,Account Executive,Mid,"New York, NY",72095,,[1],1045.0
+1381,Alison,Anderson,Male,White,1988-09-30,2021-12-03,,,Sales,Account Executive,Mid,"Chicago, IL",67293,,[2],1011.0
+1382,Nancy,Jackson,Male,Black or African American,1996-05-04,2023-08-31,,,Sales,Sales Associate,Mid,"New York, NY",74592,,[3],1018.0
+1383,Angela,Martinez,Non-binary,Asian,1984-06-07,2022-01-04,,,Finance,Finance Analyst,Mid,"San Francisco, CA",66119,,[4],1023.0
+1384,Jeanne,Smith,Male,White,1995-02-14,2022-05-10,2024-07-22,Resigned - Better Opportunity,Marketing,Marketing Coordinator,Entry,"New York, NY",52871,,[1],1041.0
+1385,Mark,Wiggins,Female,Asian,1984-05-25,2020-09-04,2022-04-22,Resigned - Personal,Sales,Sales Associate,Mid,"Austin, TX",80333,,[3],1024.0
+1386,Emily,Sharp,Female,Asian,1995-09-08,2020-02-10,2025-09-04,Resigned - Personal,Finance,Senior Analyst,Senior,"New York, NY",102483,,[2],1012.0
+1387,Michael,Brooks,Male,Asian,1996-12-11,2021-04-27,,,HR,HR Specialist,Mid,"New York, NY",79468,,[1],1060.0
+1388,Frank,Cook,Female,White,1981-06-05,2020-07-14,,,Engineering,Senior Engineer,Senior,Remote,100657,,[5],1019.0
+1389,Gail,Foster,Female,Asian,1991-04-03,2023-07-26,,,Marketing,Marketing Specialist,Mid,"New York, NY",66291,,[5],1038.0
+1390,James,Williams,Female,Asian,1991-03-21,2021-12-12,,,Finance,Finance Manager,Mid,"San Francisco, CA",76981,,[4],1068.0
+1391,Michael,Hancock,Non-binary,Asian,1993-05-27,2021-04-08,,,HR,HR Specialist,Mid,"Chicago, IL",80429,,[4],1054.0
+1392,Diana,Collins,Female,Black or African American,1988-02-29,2022-12-25,,,Marketing,Marketing Coordinator,Entry,"San Francisco, CA",63755,,[4],1007.0
+1393,Melissa,Rogers,Female,Asian,1993-08-26,2023-03-26,,,HR,HR Specialist,Mid,"San Francisco, CA",80580,,[4],1065.0
+1394,Michael,Bennett,Non-binary,Asian,1987-05-31,2022-03-22,,,Engineering,Junior Engineer,Entry,Remote,61747,,[5],1074.0
+1395,Justin,Riley,Female,Asian,1988-07-15,2021-08-06,2025-12-27,Terminated - Performance,Finance,Senior Analyst,Senior,"New York, NY",107602,,2,1069.0
+1396,Joseph,Bauer,Male,Hispanic or Latino,1988-01-29,2020-08-07,,,Engineering,Junior Engineer,Entry,"Chicago, IL",63024,,[5],1015.0
+1397,Blake,White,Male,Hispanic or Latino,1980-08-18,2019-11-14,,,Marketing,Marketing Specialist,Mid,Remote,88259,,[2],1025.0
+1398,Kristi,Gordon,Male,Two or More Races,1992-01-02,2020-10-26,,,Marketing,Marketing Specialist,Mid,Remote,63962,,[2],1041.0
+1399,Gary,Burke,Male,Asian,1991-10-06,2020-02-14,,,HR,HR Business Partner,Mid,"Chicago, IL",79670,,[1],1026.0
+1400,Melissa,Estrada,Male,Asian,1981-08-30,2021-07-24,,,Engineering,Software Engineer,Mid,"Austin, TX",88664,,[2],1033.0
+1401,John,Boyle,Non-binary,White,1991-06-21,2020-02-29,,,Marketing,Marketing Specialist,Mid,"Austin, TX",71518,,[5],1007.0
+1402,Andre,Bradshaw,Male,Two or More Races,1990-09-19,2021-11-12,2024-08-05,Resigned - Personal,HR,HR Business Partner,Mid,Remote,76476,,[3],1008.0
+1403,Mary,Carter,Non-binary,White,1983-11-12,2021-11-16,,,Marketing,Marketing Specialist,Mid,"San Francisco, CA",77406,,[5],1025.0
+1404,Keith,Chung,Non-binary,Hispanic or Latino,1998-10-13,2022-02-10,,,Marketing,Marketing Coordinator,Entry,"San Francisco, CA",52486,,[3],1038.0
+1405,Daniel,Baker,Non-binary,Two or More Races,1995-11-01,2020-06-13,,,Sales,Sales Associate,Mid,"Austin, TX",74006,,[1],1045.0
+1406,Teresa,Foster,Male,White,1989-01-21,2019-12-09,,,Finance,Senior Analyst,Senior,"San Francisco, CA",97110,,[1],1043.0
+1407,Susan,Montgomery,Male,Two or More Races,1994-11-04,2021-02-19,,,Finance,Finance Analyst,Mid,Remote,84563,,[3],1076.0
+1408,Isaac,Jones,Female,Hispanic or Latino,1988-01-22,2022-11-28,,,Sales,Account Executive,Mid,"Austin, TX",71228,,[1],1053.0
+1409,Pamela,Baker,Non-binary,Asian,1991-11-02,2023-03-08,,,Marketing,Marketing Coordinator,Entry,"San Francisco, CA",49056,,[1],1042.0
+1410,Christopher,Miller,Non-binary,Black or African American,1993-03-03,2020-01-04,,,Marketing,Marketing Coordinator,Entry,"Chicago, IL",47738,,[2],1041.0
+1411,Dale,Morgan,Non-binary,Hispanic or Latino,1986-07-22,2022-01-03,,,Sales,Senior Account Executive,Senior,"Austin, TX",114643,,[4],1024.0
+1412,Rebecca,Stanley,Female,White,1992-03-07,2022-06-17,,,Marketing,Marketing Specialist,Mid,"San Francisco, CA",69953,,[4],1064.0
+1413,Matthew,Lewis,Non-binary,Black or African American,1984-10-18,2022-05-16,,,Engineering,Software Engineer,Mid,"Austin, TX",70135,,[4],1019.0
+1414,Tara,Ali,Non-binary,Hispanic or Latino,1994-08-29,2021-03-06,,,Sales,Sales Associate,Mid,"Austin, TX",78888,,[1],1031.0
+1415,Brenda,Green,Non-binary,Black or African American,1991-03-09,2021-03-27,,,HR,HR Business Partner,Mid,"San Francisco, CA",63845,,[4],1063.0
+1416,Wesley,Holt,Female,Asian,1984-04-11,2022-01-21,,,Sales,Account Executive,Mid,"New York, NY",62743,,[5],1031.0
+1417,Teresa,Martin,Non-binary,White,2000-09-07,2022-11-13,,,HR,HR Specialist,Mid,Remote,72745,,[3],1065.0
+1418,Jesus,Allen,Non-binary,Black or African American,1987-10-05,2022-04-13,,,HR,HR Business Partner,Mid,"Austin, TX",84157,,[2],1050.0
+1419,John,Hernandez,Male,Black or African American,1982-08-17,2021-01-05,,,HR,HR Specialist,Mid,"Chicago, IL",86587,,[2],1052.0
+1420,Danny,Lane,Female,Two or More Races,1990-10-17,2021-09-08,,,HR,HR Specialist,Mid,Remote,85353,,[1],1032.0
+1421,Joshua,Phillips,Non-binary,Hispanic or Latino,1985-10-07,2020-05-11,,,Sales,Sales Associate,Mid,"Austin, TX",84438,,[1],1053.0
+1422,Diane,Welch,Non-binary,Two or More Races,1997-01-06,2021-09-12,2024-06-09,Retired,HR,HR Assistant,Entry,"Austin, TX",50572,,[5],1052.0
+1423,Maria,Bean,Non-binary,Two or More Races,1993-04-28,2022-02-18,,,Engineering,Senior Engineer,Senior,"Austin, TX",112672,,[5],1033.0
+1424,William,Oliver,Non-binary,Black or African American,1987-09-19,2020-08-18,,,Sales,Senior Account Executive,Senior,Remote,102220,,[5],1066.0
+1425,Melinda,Porter,Female,White,1985-01-04,2020-07-29,,,Sales,Sales Associate,Mid,"San Francisco, CA",68782,,[3],1024.0
+1426,Lindsay,Ellison,Male,Hispanic or Latino,1996-03-24,2021-10-15,,,Marketing,Marketing Specialist,Mid,Remote,63446,,[3],1022.0
+1427,Jonathan,Hampton,Female,Black or African American,1990-01-27,2020-09-09,,,Engineering,Software Engineer,Mid,"Chicago, IL",89255,,[3],1015.0
+1428,Linda,Ford,Male,White,1988-12-16,2022-07-26,2026-03-12,Resigned - Personal,Marketing,Senior Specialist,Senior,"New York, NY",112707,,[5],1030.0
+1429,Daniel,Rodgers,Male,Black or African American,1986-10-21,2020-08-04,,,Marketing,Marketing Coordinator,Entry,Remote,59179,,[3],1025.0
+1430,Amanda,King,Male,White,1990-12-23,2020-05-18,2026-01-10,Resigned - Personal,Engineering,Software Engineer,Mid,Remote,87703,,[2],1019.0
+1431,Joseph,Trevino,Male,White,1992-03-17,2022-10-24,,,Marketing,Marketing Specialist,Mid,"New York, NY",84034,,[1],1067.0
+1432,Jeremiah,Owen,Male,Two or More Races,1984-12-06,2019-08-28,,,Engineering,Software Engineer,Mid,"San Francisco, CA",74878,,[4],1035.0
+1433,Cristina,Davis,Female,Two or More Races,1993-09-23,2023-05-12,,,Marketing,Senior Specialist,Senior,"New York, NY",108351,,[3],1034.0
+1434,Mary,Gonzalez,Female,White,1999-01-03,2022-07-05,,,Finance,Finance Manager,Mid,"San Francisco, CA",65702,,[1],1068.0
+1435,Erin,Lopez,Non-binary,Asian,1997-05-18,2020-07-20,,,Engineering,Senior Engineer,Senior,"Austin, TX",111185,,[5],1027.0
+1436,Sarah,Jones,Non-binary,Black or African American,1982-06-21,2021-07-14,,,Engineering,Software Engineer,Mid,"San Francisco, CA",64692,,[2],1055.0
+1437,Michael,Watkins,Non-binary,Asian,1988-05-18,2021-04-30,,,Engineering,Senior Engineer,Senior,"Chicago, IL",108786,,[3],1033.0
+1438,Courtney,Matthews,Non-binary,Asian,1995-10-23,2021-06-01,,,Finance,Finance Analyst,Mid,"San Francisco, CA",79644,,[3],1076.0
+1439,Ryan,Olson,Female,Two or More Races,1997-06-23,2021-11-12,,,Engineering,Software Engineer,Mid,Remote,81353,,[1],1027.0
+1440,Daniel,Keller,Female,Asian,1991-10-29,2020-12-19,,,Sales,Account Executive,Mid,"San Francisco, CA",81918,,[2],1053.0
+1441,Susan,Allen,Male,White,1983-07-30,2019-10-31,,,HR,HR Business Partner,Mid,"Chicago, IL",81303,,[5],1039.0
+1442,Nancy,Miller,Female,Black or African American,1989-07-16,2021-02-23,,,HR,HR Business Partner,Mid,"Chicago, IL",69796,,[4],1060.0
+1443,Jeremy,Rice,Female,Two or More Races,1984-07-21,2021-02-15,,,Finance,Senior Analyst,Senior,"New York, NY",110867,,[1],1036.0
+1444,David,Newman,Male,White,1983-07-17,2019-06-21,,,HR,HR Business Partner,Mid,"Chicago, IL",88709,,[3],1050.0
+1445,Jacob,Bridges,Non-binary,White,1996-03-21,2022-03-05,,,Engineering,Senior Engineer,Senior,"New York, NY",105546,,[4],1027.0
+1446,Christopher,Collins,Female,Hispanic or Latino,1988-09-26,2023-02-26,,,Engineering,Senior Engineer,Senior,"San Francisco, CA",103033,,[4],1079.0
+1447,Kristin,Johnson,Female,Two or More Races,1982-08-23,2021-10-06,,,Finance,Finance Manager,Mid,"Austin, TX",87215,,[1],1061.0
+1448,Pamela,Wilson,Female,White,1990-10-21,2022-12-02,,,HR,HR Assistant,Entry,"Chicago, IL",59629,,[4],1060.0
+1449,Danielle,Gutierrez,Non-binary,Asian,1990-03-24,2021-01-16,,,Finance,Finance Analyst,Mid,"Austin, TX",82388,,[4],1071.0
+1450,Jennifer,Davis,Non-binary,White,1989-03-14,2023-03-28,,,Marketing,Marketing Specialist,Mid,"Austin, TX",83818,,[5],1067.0
+1451,Barbara,Knox,Non-binary,Two or More Races,1991-12-02,2022-12-05,,,Marketing,Marketing Coordinator,Entry,"Chicago, IL",45364,,[3],1038.0
+1452,Victor,Huff,Female,Asian,1990-07-24,2020-05-01,,,Finance,Senior Analyst,Senior,"Austin, TX",105477,,[2],1036.0
+1453,Matthew,Lopez,Male,Asian,1985-08-09,2021-07-06,,,Marketing,Marketing Specialist,Mid,Remote,67924,,[4],1009.0
+1454,Willie,Roberts,Female,Two or More Races,1993-03-21,2021-01-18,,,Sales,Sales Associate,Mid,"San Francisco, CA",80141,,[5],1053.0
+1455,Karen,Brewer,Non-binary,Two or More Races,1985-09-18,2020-02-24,,,Finance,Finance Analyst,Mid,"New York, NY",71202,,[3],1068.0
+1456,Carol,Owen,Male,Black or African American,1987-08-15,2019-08-24,,,Finance,Finance Analyst,Mid,"San Francisco, CA",86476,,[3],1068.0
+1457,Matthew,Warren,Female,Two or More Races,1980-11-10,2020-10-21,,,HR,HR Assistant,Entry,"New York, NY",51456,,[4],1052.0
+1458,Joseph,Cooper,Non-binary,Asian,1992-08-28,2021-12-18,,,HR,HR Business Partner,Mid,"Chicago, IL",71770,,[3],1063.0
+1459,Jessica,Fitzgerald,Non-binary,Black or African American,1989-01-17,2022-10-27,,,Engineering,Junior Engineer,Entry,"New York, NY",50434,,[3],1027.0
+1460,William,Schroeder,Male,Two or More Races,1993-01-13,2021-01-21,,,HR,HR Business Partner,Mid,"Chicago, IL",71663,,[2],1050.0
+1461,Jennifer,Wilson,Female,Black or African American,1984-04-24,2022-10-15,2023-11-30,Terminated - Performance,HR,HR Specialist,Mid,Remote,87064,,1,1065.0
+1462,Miguel,Brown,Male,Black or African American,1987-09-28,2023-07-04,,,HR,HR Business Partner,Mid,"Austin, TX",76675,,[2],1065.0
+1463,Caleb,Garcia,Non-binary,Hispanic or Latino,1983-11-27,2021-03-15,,,Sales,Account Executive,Mid,"Chicago, IL",72256,,[3],1017.0
+1464,Christian,Roberts,Male,Black or African American,1998-09-27,2022-03-31,,,Sales,Account Executive,Mid,"San Francisco, CA",76462,,[4],1075.0
+1465,Richard,Henderson,Male,Black or African American,1988-05-25,2021-10-24,2025-07-16,Retired,Marketing,Marketing Specialist,Mid,Remote,82665,,[4],1041.0
+1466,Megan,York,Female,White,1997-05-05,2020-05-08,,,HR,HR Business Partner,Mid,"Chicago, IL",67407,,[5],1063.0
+1467,Alisha,Flores,Non-binary,Asian,1996-10-02,2021-09-18,,,Engineering,Junior Engineer,Entry,Remote,51200,,[1],1019.0
+1468,Jorge,Winters,Non-binary,Asian,1997-12-30,2021-04-26,2025-11-28,Terminated - Performance,HR,HR Assistant,Entry,"New York, NY",67674,,2,1060.0
+1469,Christopher,Jacobs,Female,White,1987-09-29,2021-09-10,,,Finance,Finance Analyst,Mid,Remote,86724,,[1],1077.0
+1470,Lisa,Wilson,Female,White,1982-03-09,2020-07-20,,,Engineering,Software Engineer,Mid,"Austin, TX",75406,,[5],1055.0
+1471,Ann,Jones,Non-binary,Asian,1997-10-29,2021-04-13,,,HR,HR Specialist,Mid,"New York, NY",89107,,[5],1072.0
+1472,Matthew,Malone,Non-binary,Two or More Races,1982-08-09,2021-09-20,,,Engineering,Junior Engineer,Entry,"San Francisco, CA",67334,,[1],1010.0
+1473,Angel,Horton,Male,Hispanic or Latino,1992-04-30,2022-09-26,,,HR,HR Specialist,Mid,"San Francisco, CA",85692,,[2],1008.0
+1474,Jennifer,Holt,Female,Black or African American,1990-12-08,2020-11-16,2026-04-05,Retired,HR,HR Specialist,Mid,"Austin, TX",75891,,[3],1032.0
+1475,Susan,Jennings,Non-binary,Black or African American,1998-08-20,2023-11-21,,,HR,HR Assistant,Entry,"Chicago, IL",68983,,[4],1040.0
+1476,Michelle,Farmer,Female,Asian,1994-07-04,2019-06-30,2024-06-10,Resigned - Better Opportunity,Engineering,Junior Engineer,Entry,"Austin, TX",54429,,[3],1035.0
+1477,Jennifer,Nelson,Male,Black or African American,1994-11-27,2022-01-22,2024-04-17,Retired,Engineering,Junior Engineer,Entry,"Chicago, IL",67220,,[5],1010.0
+1478,Wendy,Cooper,Female,Asian,1986-05-27,2022-01-09,,,Engineering,Software Engineer,Mid,Remote,88220,,[1],1078.0
+1479,Jessica,Mccarty,Female,Hispanic or Latino,1983-09-15,2021-02-20,,,Marketing,Senior Specialist,Senior,"Austin, TX",107338,,[2],1009.0
+1480,Shannon,Carpenter,Non-binary,White,1999-08-23,2022-08-15,,,Sales,Account Executive,Mid,Remote,70509,,[3],1011.0
+1481,Caitlin,Strickland,Non-binary,Asian,1994-12-25,2022-02-10,2026-01-08,Resigned - Personal,Engineering,Senior Engineer,Senior,"Chicago, IL",95042,,[4],1047.0
+1482,Jennifer,Davila,Female,Black or African American,1987-03-12,2021-04-24,2021-10-21,Terminated - Performance,Finance,Senior Analyst,Senior,"Chicago, IL",98025,,1,1076.0
+1483,Barbara,Carter,Male,Black or African American,1999-08-29,2021-12-15,,,HR,HR Business Partner,Mid,"Austin, TX",79938,,[2],1065.0
+1484,Angela,Johnson,Female,Two or More Races,1984-05-23,2020-11-18,2021-10-23,Resigned - Better Opportunity,Sales,Account Executive,Mid,"Chicago, IL",89022,,[5],1056.0
+1485,Mark,Roberts,Female,White,1986-06-16,2021-05-10,,,HR,HR Assistant,Entry,"Chicago, IL",54505,,[4],1026.0
+1486,Daniel,Green,Female,Asian,1996-06-06,2020-09-07,,,Marketing,Marketing Coordinator,Entry,"San Francisco, CA",64927,,[5],1022.0
+1487,Anthony,Walton,Female,Hispanic or Latino,1992-08-07,2020-04-13,2025-04-28,Resigned - Personal,Sales,Senior Account Executive,Senior,"New York, NY",97713,,[3],1037.0
+1488,Robert,Perry,Non-binary,Black or African American,1988-08-14,2020-11-09,,,Marketing,Senior Specialist,Senior,"San Francisco, CA",112545,,[2],1042.0
+1489,Joel,Carter,Female,Asian,1991-07-21,2020-05-13,2024-01-30,Retired,HR,HR Business Partner,Mid,"Chicago, IL",60196,,[5],1020.0
+1490,Rhonda,Flores,Male,Two or More Races,1995-04-04,2020-08-04,,,Marketing,Marketing Specialist,Mid,Remote,80525,,[1],1022.0
+1491,Courtney,Watson,Non-binary,Hispanic or Latino,1993-12-15,2022-10-16,,,Engineering,Software Engineer,Mid,"New York, NY",78916,,[4],1033.0
+1492,Roger,Glover,Male,Black or African American,1987-07-27,2022-08-11,2025-04-29,Terminated - Performance,Sales,Account Executive,Mid,"San Francisco, CA",78205,,1,1058.0
+1493,Eric,Snow,Female,White,1993-04-14,2022-01-22,,,Finance,Finance Manager,Mid,"Chicago, IL",66233,,[3],1059.0
+1494,Christopher,Jones,Non-binary,White,1995-12-25,2021-04-22,,,Sales,Account Executive,Mid,"Chicago, IL",79022,,[5],1024.0
+1495,Nancy,Davis,Non-binary,Two or More Races,1990-04-26,2021-06-30,,,Sales,Senior Account Executive,Senior,Remote,107790,,[1],1031.0
+1496,Paul,Ruiz,Female,Black or African American,1985-06-15,2022-10-01,,,Engineering,Software Engineer,Mid,"New York, NY",75842,,[4],1010.0
+1497,Todd,Wolfe,Female,Two or More Races,1996-11-20,2020-12-05,,,Finance,Finance Manager,Mid,"Chicago, IL",76878,,[2],1081.0
+1498,Sherri,Wood,Non-binary,White,1998-03-05,2021-03-17,,,Marketing,Marketing Specialist,Mid,Remote,80749,,[1],1009.0
+1499,Logan,Mahoney,Non-binary,Asian,1997-04-12,2022-02-07,2023-12-21,Resigned - Personal,Marketing,Senior Specialist,Senior,"Austin, TX",113672,,[5],1057.0
+1500,Eric,Rodriguez,Non-binary,Two or More Races,1985-03-23,2019-03-05,,,Engineering,Software Engineer,Mid,Remote,60148,,[5],1035.0

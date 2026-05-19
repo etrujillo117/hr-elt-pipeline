@@ -1,4 +1,4 @@
-CREATE TABLE `hr-elt-pipeline.raw.employees` (
+CREATE TABLE raw_employees (
   employee_id STRING,
   first_name STRING,
   last_name STRING,
